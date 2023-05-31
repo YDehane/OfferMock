@@ -1,1 +1,8 @@
-
+{
+  "offers": [
+    { "offerId": 1, "Billing Frequency": "HEBD", "Payment Base": "CMPT", "Payment Delay": "01", "Payment Mode": "07" },
+    { "offerId": 2, "Billing Frequency": "QUIN", "Payment Base": "FM", "Payment Delay": "03", "Payment Mode": "21" },
+    { "offerId": 3, "Billing Frequency": "MENS", "Payment Base": "FM10", "Payment Delay": "05", "Payment Mode": "08" },
+    { "offerId": 4, "Billing Frequency": "MENS", "Payment Base": "DF", "Payment Delay": "07", "Payment Mode": "CPT" }
+  ]
+}
